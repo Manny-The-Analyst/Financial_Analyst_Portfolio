@@ -15,7 +15,7 @@ Objective: Simulate a Financial Analyst II project focused on acquisition profit
 
 **How to use**
 1. Open `P&L_ForecastModel.xlsx` in Excel. The `Raw_Data` sheet contains account-level history. `Monthly_PnL_Summary` aggregates by month & channel.
-2. The `Forecasts` sheet contains a 6-month forecast using a simple linear trend and a simple exponential smoothing projection.
+2. The `Forecasts` sheet contains a 1-year forecast using a simple linear trend and a simple exponential smoothing projection.
 
 Notes
 - Data is synthetic and intended for demonstration and portfolio use.
